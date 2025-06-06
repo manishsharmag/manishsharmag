@@ -26,8 +26,9 @@
 
 ### 🚀 Projects You Might Like
 
-- 🔍 [Bus Timetable Web Generator](#) – Dynamic PHP/WordPress tool to auto-generate SEO URLs like `/from/to`
+- 🔍 [Bus Timetable Web Generator](www.haryanabusinfo.in) – Dynamic PHP/WordPress tool to auto-generate SEO URLs like `/from/to`
 - 📹 [YouTube Shorts Downloader](#) – GUI App to download and rename YouTube Shorts
+- 📦 [News Automation Website](http://indiapoweronline.com/) – Automatically Publishes News
 - 📦 [Cement Delivery System](#) – B2B eCom platform connecting buyers with real-time cement sellers in Delhi
 
 ---
